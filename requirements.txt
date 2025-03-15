@@ -1,0 +1,6 @@
+lxml
+matplotlib
+notebook
+pandas
+scipy
+seaborn
